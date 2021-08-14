@@ -1,6 +1,6 @@
 
 
-### Lautaro Conde | Desarrollador .NET
+### Lautaro Conde | Desarrollador de sistemas
 
 ¡Que bueno encontrarnos!
 Espero que estés bien, yo me presento 😎: Tengo 20 años, y soy estudiante de la Licenciatura en Informática de la UNQ.  Me especializo en tecnologías Microsoft, siendo .NET Framework/Core mi principal enfoque. Manejo PHP, Node, Golang y C/C++ adicionalmente.
