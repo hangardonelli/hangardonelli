@@ -1,6 +1,4 @@
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[linkedin-url]: https://www.linkedin.com/in/lcondeg/
 
 ### Lautaro Conde | Desarrollador .NET
 
