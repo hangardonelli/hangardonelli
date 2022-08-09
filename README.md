@@ -37,7 +37,7 @@
 <div>
 <h2 align="center">🧮 About this Account</h2>
  <p align="center">
- I'live in buenos aires, argentina. Since I was very young I have been passionate about computer science. I currently work professionally as a developer in .NET technologies, with solid knowledge of React and a wide variety of database systems such as SQL Server, PostgreSQL, MongoDB or Redis.
+ I'live in Buenos Aires, Argentina. Since I was very young I have been passionate about computer science. I currently work professionally as a developer in .NET technologies, with solid knowledge of React and a wide variety of database systems such as SQL Server, PostgreSQL, MongoDB or Redis.
  Also, develop cross-platform mobile apps with Ionic Framework
 At the National University of Quilmes I am studying Computer Science with a focus on software development, while at the Catholic University of Salta I am studying Computer Security.
 I am currently studying cryptography bases independently.
