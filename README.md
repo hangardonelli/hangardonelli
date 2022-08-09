@@ -43,14 +43,7 @@ At the National University of Quilmes I am studying Computer Science with a focu
 I am currently studying cryptography bases independently.
 For any questions or suggestions you have to make me, in this profile you will find my social contact networks. Feel free to contact me :)
   </p>
-  <p align="center">
-  <a href="github.com/hangardonelli" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/updated/hangardonelli/hangardonelli?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
-     alt="updated" /></a>
-  <a href="github.com/hangardonelli" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/repos/hangardonelli/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
-     alt="repos" /></a>
- </p>
+ 
 </div>
 </details>
 
